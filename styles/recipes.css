@@ -1,0 +1,22 @@
+.container {
+  width: 300px;
+  border-color: brown;
+  border-style: dashed;
+  padding: 10px;
+  background-color: lightcyan;
+}
+
+.image {
+  width: 300px;
+  height: auto;
+}
+ul {
+  list-style: decimal-leading-zero;
+  color: blueviolet;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.ordered-list {
+  color: red;
+  list-style: lower-alpha;
+}

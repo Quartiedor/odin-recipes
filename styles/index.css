@@ -1,0 +1,24 @@
+.unordered-list {
+  color: red;
+  list-style: georgian;
+  text-align: left;
+}
+
+div {
+  border-color: brown;
+  border-width: 2px;
+  border-style: groove;
+  width: 250px;
+  background-color: rgb(228, 204, 204);
+  padding: 15px;
+  text-align: center;
+}
+
+#header {
+  color: salmon;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
